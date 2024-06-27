@@ -20,7 +20,7 @@ This repository contains details on the curation of the data set, the preprocess
 
 | File | Description |
 | -----------| -----------|
-| corpus | folder containing 3 csv files and all the corpus data in a text file seperated into parapgraphs |
+| corpus | Folder containing 3 csv files (`oecd-ai-all-ai-policies.csv`, `corpus_selection.csv`,`paragraphs-all`) and all the corpus data in a text file (`paragraphs-all`)seperated into parapgraphs. |
 | ► corpus/oecd-ai-all-ai-policies.csv | [Original dataset from the OECD.AI](https://oecd.ai/en/dashboards/overview). Downloaded on the 02.05.2024 *OECD.AI. (2021). Database of national AI Policies [Dataset]. https://oecd.ai/en/dashboards/overview*|
 | ► corpus/corpus_selection.csv | Narrowed down csv file containing possible selection of policy initiatives from the origial dataset. |
 | ► corpus/cleaned_policies.csv | Final selection of all 87 AI frameworks. |
