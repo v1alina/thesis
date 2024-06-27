@@ -1,5 +1,7 @@
-# Exploring ideas of accountability in AI regulation (Master Thesis Project 2024)
+# Exploring ideas of accountability in AI regulation 
 
+Master Thesis Project, Digital Humanities, Communication & Information Studies, Miriam Weigand
+---
 My master thesis project on accountability in AI regulation. The thesis explore the use of topic modeling to find associated words and passages related to *accountability* in a corpus of AI regulatory frameworks.
 
 
