@@ -22,6 +22,6 @@ This repository contains details on the curation of the data set, the preprocess
 | ► corpus/corpus_selection.csv | Narrowed down csv file containing possible selection of policy initiatives from the origial dataset. |
 | ► corpus/cleaned_policies.csv | Final selection of all 87 AI frameworks. |
 | ► corpus/paragraphs-all | Text file including the entirety of the corpus set. Each document is divided into paragraphs of 3 consecutive sentences. All parapgraps are seperated by `/n`.|
-|EDA_all_policies.ipynb|| Juypter Notebook going into exploratory data analysis and explaining the corpus selection process. Further, this notebook goes into the conversion from the downloaded frameworks as PDF files into text files for further processing|
+|EDA_all_policies.ipynb| Juypter Notebook going into exploratory data analysis and explaining the corpus selection process. Further, this notebook goes into the conversion from the downloaded frameworks as PDF files into text files for further processing |
 | BERTopic_v1.ipynb | Jupyter Notebook on the creation of a standard topic model, includes the preprocessing and visualisations of the topic model. Unfortunately the saved model cannot be uploaded as it is over 250mb|
 | LEGAL_BERT_v2.ipynb | Jupyter Notebook on the creation of a fine-tuned topic model using [LEGAL-BERT embeddings](https://huggingface.co/nlpaueb/legal-bert-base-uncased). The notebook goes into some techinques for fine-tuning a BERTopic model. Further, topics of interests are visualised |
