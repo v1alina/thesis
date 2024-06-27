@@ -1,6 +1,6 @@
 # Exploring ideas of accountability in AI regulation (Master Thesis Project 2024)
 
-My master thesis project on accountability in AI regulation. Using topic modellinng to find associated words and passages in the corpus.
+My master thesis project on accountability in AI regulation. The thesis explore the use of topic modeling to find associated words and passages related to *accountability* in a corpus of AI regulatory frameworks.
 
 
 ## View notebooks and topic model visualisations
@@ -11,6 +11,8 @@ View the topic models with their interactive graphs via the NBviewer:
 
 
 ## Contents
+
+This repository contains details on the curation of the data set, the preprocessing, and the creation of two seperate topic models.
 
 
 
