@@ -3,7 +3,7 @@
 *Master Thesis Project, Digital Humanities, Communication & Information Studies, Miriam Weigand*
 
 ---
-My master thesis project on accountability in AI regulation. The thesis explore the use of topic modeling to find associated words and passages related to *accountability* in a corpus of AI regulatory frameworks.
+My master thesis project on accountability in AI regulation. The thesis explores the use of topic modeling to find associated words and passages related to *accountability* in a corpus of AI regulatory frameworks. In doing so accountability is contextualised as both a normative and legal concept, which is intertwined with related concepts such as reliability, transparency and more.
 
 
 ## View notebooks and topic model visualisations
