@@ -15,4 +15,7 @@ View the topic models with their interactive graphs via the NBviewer:
 This repository contains details on the curation of the data set, the preprocessing, and the creation of two seperate topic models.
 
 
-
+| File | Description |
+| -----------| -----------|
+| corpus | folder containing 3 csv files and all the corpus data in a text file seperated into parapgraphs |
+| BERTopic_v1 | Jupyter Notebook on the creation of a standard topic model, includes the preprocessing and visualisations of the topic model |
