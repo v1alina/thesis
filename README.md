@@ -18,7 +18,9 @@ This repository contains details on the curation of the data set, the preprocess
 | File | Description |
 | -----------| -----------|
 | corpus | folder containing 3 csv files and all the corpus data in a text file seperated into parapgraphs |
-| ► corpus/oecd-ai-all-ai-policies.csv | [original dataset from the OECD.AI](https://oecd.ai/en/dashboards/overview), downloaded on the 02.05.2024 (OECD.AI. (2021). Database of national AI Policies [Dataset]. https://oecd.ai/en/dashboards/overview
-)|
+| ► corpus/oecd-ai-all-ai-policies.csv | [Original dataset from the OECD.AI](https://oecd.ai/en/dashboards/overview). Downloaded on the 02.05.2024 (OECD.AI. (2021). Database of national AI Policies [Dataset]. https://oecd.ai/en/dashboards/overview |
+| ► corpus_selection.csv | Narrowed down csv file containing possible selection of policy initiatives from the origial dataset |
+| ► cleaned_policies.csv | Final selection of all 87 AI frameworks |
+| ► paragraphs-all | text file including the entirety of the corpus set. Each document is divided into paragraphs of 3 consecutive sentences. All parapgraps are seperated by `/n`|
 | BERTopic_v1 | Jupyter Notebook on the creation of a standard topic model, includes the preprocessing and visualisations of the topic model. Unfortunately the saved model cannot be uploaded as it is over 250mb|
-| LEGAL_BERT_v2
+| LEGAL_BERT_v2 | Jupyter Notebook on the creation of a fine-tuned topic model using [LEGAL_bert embeddings](https://huggingface.co/nlpaueb/legal-bert-base-uncased)|
