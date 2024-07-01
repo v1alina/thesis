@@ -1,4 +1,4 @@
-# Exploring ideas of accountability in AI regulation 
+# Exploring topics surrounding accountability across the AI regulatory landscape
 
 *Master Thesis Project, Digital Humanities, Communication & Information Studies, Miriam Weigand*
 
